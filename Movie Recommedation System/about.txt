@@ -1,0 +1,39 @@
+RECOMMENDER SYSTEMS
+
+What is a recommender system?
+
+A recommender system is a type of software or algorithm designed to suggest
+items to users based on various types of data. This is used to enhance users
+experience by providing personalised recommendations. 
+
+
+Types of recommender system:
+
+1. Content based   2. collaborative filtering based  3. Hybrid
+
+
+1. CONTENT_BASED_FILTERING
+This approach recommends items similar to those a user has liked in the 
+past. It relies on the features of the items themselves 
+(e.g., genre, actors, or keywords in articles) and compares them to find
+ similarities.
+
+
+2. COLLABORATIVE FILTERING BASED
+This method recommends items based on the preferences of similar users. There are two main types:
+User-based Collaborative Filtering: Recommends items that similar users have liked.
+Item-based Collaborative Filtering: Recommends items similar to 
+those a user has liked, based on how other users rated them.
+
+
+This is a content based filtering movie recommeder system. 
+
+
+PROJECT FLOW:
+
+1. Data Collection: Collect movie data from a source (e.g., IMDB)
+   data collection link: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+2. pre processing
+3. Model Building
+4. convert to model to website
+5. Deploy
