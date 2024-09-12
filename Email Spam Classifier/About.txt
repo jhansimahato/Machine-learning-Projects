@@ -1,0 +1,3 @@
+Email/SMS Spam Classifier
+
+Dataset used: kaggle.com/uciml/sms-spam-collection-dataset
