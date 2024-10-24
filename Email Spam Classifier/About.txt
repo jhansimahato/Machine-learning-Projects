@@ -1,3 +1,18 @@
 Email/SMS Spam Classifier
 
 Dataset used: kaggle.com/uciml/sms-spam-collection-dataset
+
+An Email/SMS Spam Classifier is a machine learning application that predicts whether a given text message is spam or not. The user inputs the text, and upon 
+clicking the "Predict" button, the classifier analyzes the content and outputs the result: either "Spam" or "Not Spam." This system helps in filtering out unwanted or
+ malicious messages.
+
+ Process:
+
+ 1. Data cleaning
+ 2. EDA
+ 3. Text Preprocessing
+ 4. Model Building 
+ 5. Model Evaluation
+ 6. Improvements 
+ 7. Web-App creation and deployment. 
+ 
